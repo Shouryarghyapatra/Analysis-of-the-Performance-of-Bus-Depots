@@ -1,0 +1,22 @@
+Packages Needed:
+install.packages(c(
+  "tidyverse",
+  "readxl",
+  "dplyr",
+  "ggplot2",
+  "factoextra",
+  "FactoMineR",
+  "cluster",
+  "missForest",
+  "corrplot",
+  "caret",
+  "reshape2",
+  "NbClust",
+  "psych",
+  "pheatmap",
+  "plotly",
+  "gridExtra",
+  "GGally",
+  "outliers",
+  "scales"
+))
